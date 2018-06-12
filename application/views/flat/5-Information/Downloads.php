@@ -17,19 +17,19 @@
                 </li>
                 <li>
                     <strong>Schedules and Posters</strong><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMcardprn2017.pdf">Programme Card</a><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMprogposterprn2017.pdf">Programme</a><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMpublicandspecialecture2017.pdf">Special Lectures</a><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMsymposiaposteprn2017.pdf">Symposia</a>
+                    <a target="_blank" href="javascript:void(0);">Programme Card</a><br />
+                    <a target="_blank" href="javascript:void(0);">Programme</a><br />
+                    <a target="_blank" href="javascript:void(0);">Special Lectures</a><br />
+                    <a target="_blank" href="javascript:void(0);">Symposia</a>
                 </li>
                 <li>
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>Conveners_list.pdf">List Of Conveners</a>
+                    <a target="_blank" href="javascript:void(0);">List Of Conveners</a>
                 </li>                
                 <li>
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>Organizing_Committee.pdf">Local Organizing Committee</a>
+                    <a target="_blank" href="javascript:void(0);">Local Organizing Committee</a>
                 </li>
                 <li>
-                    <a target="_blank" href="http://www.ias.ac.in/public/Resources/Other_Publications/Annual_Reports/annrep2017.pdf">Annual report of the IASc</a>
+                    <a target="_blank" href="javascript:void(0);">Annual report of the IASc</a>
                 </li>
             </ul>
         </div>
