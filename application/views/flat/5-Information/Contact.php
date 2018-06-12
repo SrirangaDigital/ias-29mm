@@ -14,13 +14,6 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <strong>Prof. B. B. P. Gupta</strong><br />
-                    Organizing Secretary<br />
-                    Off. Tel.: 0364 2722316<br />
-                    Mob: 09436100185<br />
-                    Email: gupta@nehu.ac.in
-                </div>
-                <div class="col-md-6">
                     <strong>N. Maheshchandra</strong><br />
                     Executive Secretary<br />
                     Indian Academy of Sciences<br /> 
@@ -29,29 +22,19 @@
                     Fax: 080 2361 6094<br />
                     Email: execsec@ias.ac.in
                 </div>
-            </div>
-            <div class="row">
                 <div class="col-md-6">
-                    <strong>Dr. J. N. Nayak, Registrar</strong><br />
-                    Joint Secretary<br />
-                    Off. Tel.: 0364 2721012, 2721013<br />
-                    Email: regtroffice@nehu.ac.in
+                    <strong>C. S. Ravikumar</strong><br />
+                    Assistant Executive Secretary<br />
+                    Indian Academy of Sciences<br />
+                    Off. Tel.: 080 2266 1207<br />
+                    Mob: 09008032002<br />
+                    Fax: 080 2361 6094<br />
+                    Email: ravi@ias.ac.in
                 </div>
-                <div class="col-md-6">&nbsp;</div>
             </div>
-
-            <h2>List of Sub-committees, Conveners and contact details</h2>
-            <ul>
-                <li>
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>Conveners_list.pdf">List Of Conveners</a>
-                </li>                
-                <li>
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>Organizing_Committee.pdf">Local Organizing Committee</a>
-                </li>
-            </ul>    
         </div>
         <div class="col-md-3 sidebar">
-<?php require_once('application/views/generalSidebar.php');?>
+            <?php require_once('application/views/generalSidebar.php');?>
         </div>
     </div>
 </div>
