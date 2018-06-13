@@ -84,7 +84,7 @@
     <div class="row">
         <div class="col-md-12">
             <p class="speaker-type">Presidential Address</p>
-            <a href="<?=BASE_URL?>describe/profile/1508569913576">
+            <a href="javascript:void(0);">
                 <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508569913576/profile.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy"/>
                 <figcaption class="figure-caption text-xs-right">Ramakrishna Ramaswamy</figcaption>
             </a>
