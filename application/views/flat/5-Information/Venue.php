@@ -18,11 +18,6 @@
             <div class="responive-map">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7794.635428588774!2d76.59433572389003!3d12.361637715032309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9b78c0efff705870!2sInfosys+Leadership+Institute!5e0!3m2!1sen!2sin!4v1528793971751" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
-            
-            <h2 id="bhopal_campus_map">Campus map</h2>
-            <div id="viewimages">
-                <p><img src="<?=PUBLIC_URL?>images/stock/NEHU_campus_map.jpg" alt="NEHU Campus Map" title="Click to zoom" class="img-responsive"/></p>
-            </div>
         </div>
         <div class="col-md-3 sidebar">
 <?php require_once('application/views/generalSidebar.php');?>
