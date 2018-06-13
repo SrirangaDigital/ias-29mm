@@ -13,7 +13,7 @@
         <li><a href="javascript:void(0);">Hospitality</a></li>
         <li><a href="javascript:void(0);">Logistics</a></li>
         <li><a href="<?=BASE_URL?>Information/Contact">Contact</a></li>
-        <li><a href="javascript:void(0);">Other Information</a></li>
+        <li><a href="<?=BASE_URL?>Information/Other">Other Information</a></li>
     </ul>    
 
     <h1>Downloads</h1>

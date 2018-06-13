@@ -84,15 +84,19 @@
     <div class="row">
         <div class="col-md-12">
             <p class="speaker-type">Presidential Address</p>
-            <a href="<?=BASE_URL?>describe/profile/1528533237319">
-                <img src="<?=CMS_URL?>public/data/meetings/MM2018/1528533237319/profile.jpg" class="speaker-thumbnail" alt="G Nageswara Rao" title="G Nageswara Rao"/>
-                <figcaption class="figure-caption text-xs-right">G Nageswara Rao</figcaption>
+            <a href="<?=BASE_URL?>describe/profile/1508569913576">
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508569913576/profile.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy"/>
+                <figcaption class="figure-caption text-xs-right">Ramakrishna Ramaswamy</figcaption>
             </a>
         </div>
     </div>
     <div class="row">
         <div class="col-md-12">
             <p class="speaker-type">Inaugural Lectures of Fellows &amp; Associates / Special Lectures / Public Lectures / Symposia Lectures</p>
+            <a href="<?=BASE_URL?>describe/profile/1528533237319">
+                <img src="<?=CMS_URL?>public/data/meetings/MM2018/1528533237319/profile.jpg" class="speaker-thumbnail" alt="G Nageswara Rao" title="G Nageswara Rao"/>
+                <figcaption class="figure-caption text-xs-right">G Nageswara Rao</figcaption>
+            </a>
             <a href="<?=BASE_URL?>describe/profile/1528541501386">
                 <img src="<?=CMS_URL?>public/data/meetings/MM2018/1528541501386/profile.jpg" class="speaker-thumbnail" alt="Ritabrata Munshi" title="Ritabrata Munshi"/>
                 <figcaption class="figure-caption text-xs-right">Ritabrata Munshi</figcaption>
@@ -235,7 +239,7 @@
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br /><!-- Information/Transport -->
             <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a><!-- Information/Downloads -->
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a><!-- Information/Other -->
+            <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a><!-- Information/Other -->
         </div>
     </div>
 </div>

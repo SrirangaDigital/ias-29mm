@@ -26,10 +26,6 @@
 <p>
     The public lecture, held in the evening of the 30<sup>th</sup> June, focussed on ‘C. Subramania Bharati: Nationalism and Creativity’ by A.R. Venkatachalapathy. The symposium on Molecular Machines held on the 1<sup>st</sup>, provided insights into this fascinating field from the perspectives of physics, cell biology, structural biology and chemistry. 
 </p>
-<p>
-    Read the <i>Current Science</i> report of the 28th mid-year meeting <i><a href="http://www.currentscience.ac.in/Volumes/113/04/0547.pdf">here</a></i>.
-</p>    
-
 
         </div>
         <div class="col-md-3 sidebar">
