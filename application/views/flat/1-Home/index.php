@@ -64,12 +64,12 @@
 <div class="container clear-paddings" id="registration">
     <div class="row">
         <div class="col-md-12">
-           <p class="subtitle fancy"><span class="text">Registration</span></p>
-       </div>
-   </div>
-   <div class="row">
+         <p class="subtitle fancy"><span class="text">Registration</span></p>
+     </div>
+ </div>
+ <div class="row">
     <div class="col-md-12">
-        <p class="reg">Fellows of the Academy and invited teachers who have not yet registered,<br /> please register <a href="http://web-japps.ias.ac.in:8080/Midmeeting2018/midyear/Userlogin.jsp" target="_blank">here</a></p>
+        <p class="reg">Attendees are requested to register for the meeting, on-site, at the meeting venue on Friday, 29 June at 9.00 am.<br />Please register <a href="http://web-japps.ias.ac.in:8080/Midmeeting2018/midyear/Userlogin.jsp" target="_blank">here</a></p>
     </div>
 </div>
 </div>
@@ -247,10 +247,10 @@
     </div>
     <div class="row" style="line-height: 150px">
         <div class="col-md-12">
-        <a href="javascript:void(0);" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a><!-- <?=BASE_URL?>Information/List_of_Participants -->
+            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a><!-- <?=BASE_URL?>Information/List_of_Participants -->
             <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a><!-- <?=BASE_URL?>Information/Accommodation -->
-            <a href="javascript:void(0);" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br /><!-- Information/Transport -->
+            <a href="<?=BASE_URL?>Information/Accommodation" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
+            <a href="<?=BASE_URL?>Information/Transport" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
             <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
             <a href="javascript:void(0);" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a><!-- Information/Downloads -->
             <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a><!-- Information/Other -->

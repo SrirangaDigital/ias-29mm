@@ -11,10 +11,10 @@
         <div class="col-md-9 main">
             <h1>Hospitality</h1>
             <ul>
-                <li><strong>Accommodation:</strong> Participants will be provided accommodation in various University Guest Houses on the campus. Upon arrival at the Campus, volunteers of the accommodation committee will assist in reaching the place of accommodation.</li>
-                <li><strong>Health requirements and medical facilities:</strong> With the help of LOC, special services will be made available at the dispensary of NEHU during meeting days. The dispensary is also facilitated with ambulance service and is reachable at a swift time. For medical help, please contact Dr. (Mrs.) C. Mukhim, Chief Medical Officer, NEHU Health Centre (mobile No.: 9436732922).</li>
-                <li><strong>Weather and climate information:</strong> Shillong becomes cold during November. Temperature at NEHU campus, Shillong is expected to remain between 10°C (minimum) and 20°C (maximum). Woolen garments are recommended during the month of November.</li>
-                <li>For any queries regarding accommodation, please contact the Accommodation Committee.</li>
+                <li><strong>Accommodation:</strong> All registered delates will be provided accommodation in the Infosys Campus, for the period 28 June – 1 July 2018.  The Academy staff will facilitate the allocation of accommodation upon your arrival at the venue.</li>
+                <li><strong>Health requirements and medical facilities:</strong> A Walk-in Clinic is available on the Infosys campus during the meeting days.</li>
+                <li><strong>Weather and climate information:</strong> Mysuru generally experiences a pleasant climate – the winters are cool and the summers warm. Summer commences in the months of March and continues until June. The season is dry, May and June being the hottest months. Temperatures range between 21ºC and 34ºC. The monsoon runs from June to September, during which the city experiences medium to heavy rainfall.</li>
+                <li>For any queries regarding accommodation, please contact the Accommodation <a href="<?=BASE_URL?>Information/Contact">Committee</a>.</li>
             </ul>             
         </div>
         <div class="col-md-3 sidebar">

@@ -76,7 +76,7 @@
                     <li><a href="<?=BASE_URL?>#registration">Registration</a></li>
                     <!-- <li><a href="<?=BASE_URL?>Gallery">Gallery</a></li> -->
                     <li id="navLogo"><a href="<?=BASE_URL?>#home"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="<?=BASE_URL?>About">About</a></li>
                     <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#information">For Participants</a></li>
                     <li class="navSeparator"><a>·</a></li>

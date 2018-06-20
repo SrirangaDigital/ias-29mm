@@ -1,31 +1,34 @@
     <div class="container">
-    <div class="row">
-        <!-- Column 1 -->
-        <div class="col-md-12 text-center">
-            <p>&nbsp;</p>    
+        <div class="row">
+            <!-- Column 1 -->
+            <div class="col-md-12 text-center">
+                <p>&nbsp;</p>    
+            </div>
         </div>
     </div>
-</div>
-<div id="grid" class="container gap-above">
-    <div class="row">
-        <div class="col-md-9 main">
-            <h1>Logistics</h1>
-            <ul>
-                <li>
-                    <p><strong>Reaching NEHU campus, Shillong:</strong> Shillong is 125 km away from the Guwahati airport and 100 km from Guwahati railway station. The Local Organizing Committee (LOC) will arrange transportation from, both, the Guwahati airport and the Shillong Airport to NEHU campus, Shillong. Participants arriving at either airports are requested to approach the Reception Desk at the Arrival Lounge for onward journey to the campus.</p>
-                    <p>For participants arriving at the Guwahati airport, volunteer(s) at the Reception Desk will assist in commuting to the NEHU Guest House, which is near Guwahati airport, where they will be provided brunch. The delegates will then be transported, in groups, to the NEHU campus in Shillong, in comfortable vehicles, and this journey will take about 3 hours. The vehicles will stop midway, in a place called Nongpoh (Meghalaya), for about 20 minutes, where delegates will refresh themselves for onward journey to NEHU campus, Shillong.</p>
-                    <p>For participants directly arriving at Shillong Airport, volunteer(s) at the Reception Desk at the Shillong airport, will assist with commuting to NEHU, Shillong. In this case, the distance between Shillong (Barapani Airport) and NEHU is 20 km and drive time is around 30 minutes.</p>
-                </li>
-                <li><strong>Local transportation at NEHU Campus:</strong> LOC will arrange local transport within NEHU campus to commute between places of accommodation and meeting catering venue.</li>
-                <li><strong>Departure details:</strong> LOC will provide pooled drop-off facility to participants to Guwahati airport during and after the meeting. Participants are requested to provide departure details at the travel counter at the meeting venue. Please note that one has to keep practically 4 hours’ time window to board a flight from Guwahati airport.</li>
-                <li><strong>Travel fare reimbursements:</strong> The Academy will extend travel fare reimbursement as per its norms. All participants are requested to fill in TA claim form available at the TA claim desk at the meeting venue. All claims must be supported with original pay receipts/invoice and boarding pass. The Academy will reimburse the travel claims over NEFT/RTGS.</li>
-                <li><strong>Wi-Fi network at NEHU:</strong> The NEHU campus is Wi-Fi enabled, venue specific passwords will be provided by LOC. The LOC will provide internet connection at the meeting venue to enable access for printing travel tickets, e-mail browsing etc.</li>
-                <li><strong>ATM facility:</strong> ATM facility is available within the campus. These are available at the SBI NEHU Branch (main administrative building) and NEHU Shopping Complex (near BSNL Exchange).</li>
-                <li>For any queries regarding accommodation, please contact the Transport Committee</li>
-            </ul>
-        </div>
-        <div class="col-md-3 sidebar">
-<?php require_once('application/views/generalSidebar.php');?>
+    <div id="grid" class="container gap-above">
+        <div class="row">
+            <div class="col-md-9 main">
+                <h1>Logistics</h1>
+                <h2>The Academy office has arranged pooled transportation from the following places</h2>
+                <ul>
+                    <li><strong>Bangalore International Airport:</strong> Depending upon your travel itinerary, fly buses (delegates upon their arrival can directly proceed to Mysore by fly buses) and pooled cab services are arranged to travel further to Mysore. Individual-specific details will be provided to you by email. Academy staff Mr Vijaykumar (Mob.94482 46083) and Mr Jayakumar (Mob. 96327 26132) will assist you with the same, at the Airport.</li>
+                    <li>
+                        <strong>Indian Academy of Sciences Campus:</strong> For the convenience of Bangalore-based Fellows and accompanied spouses who have registered for the meeting, transport facility is arranged on 28th June from the Academy. The journey will start at 2.00 pm. All registered Bangalore-based Fellows are requested to convene at the Academy by 1.30 pm.<br />
+                        <p>Registered participants who wish to arrive at the meeting venue on their own are requested to inform the Academy secretariat (mail to <execsec@ias.ac.in>) so that the access pass can be prepared.</p>
+                    </li>
+                    <li>
+                        <strong>Reception at Mysore Development Centre:</strong> The Secretariat of the Academy will be providing Identification Badges with names upon your arrival at the venue. The Identification Badge <strong>IS ESSENTIAL</strong> to get access to the Infosys campus via Gate no. 2. Please allow up to 15 minutes for the mandatory security screening. You have to wear the ID card inside the campus at all times.
+                        <p><strong>Note:</strong> Please be aware that the Infosys Campus has high-security compliance and all delegates are subject to security inspection. We request you to inform us if you are carrying a laptop with you so that we can get a prior approval. For the duration of the meeting, all Academy delegates are permitted to enter and exit the Campus through the Gate 2 desk. </p>
+                    </li>
+                    <li><strong>Opening of the Mid-Year Meeting:</strong> Formal proceedings of the meeting will be held at Mahatma Gandhi Hall, Infosys Leadership Institute, in the Infosys campus. The meeting will commence at 9.00 am on 29th June 2018 at the Infosys Leadership Institute in the Infosys campus. </li>
+                    <li><strong>Local transportation:</strong> Transportation services have been organized for all attendees during the meeting days in the Infosys campus to facilitate transit between the meeting venues and accommodation.</li>
+                    <li><strong>Transport from the Venue:</strong>On July 1, there will be transportation from Infosys Campus to Bangalore and then to Bangalore Airport, after the breakfast, i.e., from 9.30 am onwards.  The secretariat of the Academy will facilitate the transit. All registered Bangalore-based Fellows and accompanied spouses may please make use of this facility; they all will be dropped at the Academy premises in RRI campus around noon.</li>
+                    <li>In any case of any urgent queries, please contact the <a href="<?=BASE_URL?>Information/Contact">committees</a> in charge.</li>
+                </ul>
+            </div>
+            <div class="col-md-3 sidebar">
+                <?php require_once('application/views/generalSidebar.php');?>
+            </div>
         </div>
     </div>
-</div>
