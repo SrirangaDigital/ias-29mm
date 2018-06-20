@@ -52,7 +52,7 @@
         </div>
         <div class="col-md-10">
             <div class="intro">
-                <p>The Indian Academy of Sciences, Bengaluru, through many scientific meetings, symposia, and public lectures it organizes, aims to facilitate  exchange of scientific insights among researchers and to highlight novel findings both within the scientific community and the public. The Mid-Year Meetings held during June/July at Bengaluru and the Annual Meetings held during November at different scientific institutions in the country are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students and  other invitees across the nation.</p>
+                <p>The Indian Academy of Sciences, Bengaluru, through the many scientific meetings, symposia, and public lectures it organizes, aims to facilitate  exchange of scientific insights among researchers and to highlight novel findings both within the scientific community and the public. The Mid-Year Meetings, held during June/July at Bengaluru, and the Annual Meetings, held during November at different scientific institutions in the country, are the two major annual events of the Academy, in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students and  other invitees from across the nation.</p>
                 <p>The <strong>29th Mid Year Meeting of the Academy</strong> is being organized during <strong>29&ndash;30 June 2018 at Infosys, Mysuru</strong></p>
             </div>
         </div>
@@ -207,17 +207,31 @@
     <div class="row">
         <div class="col-md-12">
             <a href="<?=BASE_URL?>Schedule#day1">
-                <div id="block1" class="col-md-6 schedule-block">
+                <div id="block1" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 1</p>
                     <p class="date">29 June 2018</p>
                     <p class="day">Friday</p>
                 </div>
             </a>
             <a href="<?=BASE_URL?>Schedule#day2">
-                <div id="block2" class="col-md-6 schedule-block">
+                <div id="block2" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 2</p>
                     <p class="date">30 June 2018</p>
                     <p class="day">Saturday</p>
+                </div>
+            </a>
+            <a href="<?=BASE_URL?>Schedule#allied">
+                <div id="block3" class="col-md-3 schedule-block">
+                    <p class="dayNum">Allied Events</p>
+                    <p class="date">28, 29, 30 June &amp; 1 July</p>
+                    <p class="day">2018</p>
+                </div>
+            </a>
+            <a href="<?=BASE_URL?>Schedule#spouses">
+                <div id="block4" class="col-md-3 schedule-block">
+                    <p class="dayNum">Spouses Programme</p>
+                    <p class="date">29, 30 June</p>
+                    <p class="day">2018</p>
                 </div>
             </a>
         </div>

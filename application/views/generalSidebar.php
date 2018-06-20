@@ -4,6 +4,8 @@
     <ul>
         <li><a href="<?=BASE_URL?>Schedule#day1" target="_blank">Day1</a></li>
         <li><a href="<?=BASE_URL?>Schedule#day2" target="_blank">Day2</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#allied" target="_blank">Allied Events</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#spouses" target="_blank">Spouses Programme</a></li>
     </ul>            
 
     <h1>For Participants</h1>

@@ -48,6 +48,8 @@
                 <ul class="nav nav-justified">
                     <li><a href="#day1">Day 1</a></li>
                     <li><a href="#day2">Day 2</a></li>
+                    <li><a href="#allied">Allied Events</a></li>
+                    <li><a href="#spouses">Spouses Programme</a></li>
                 </ul>
                 <div class="schedule-text" id="day1">
                     <h3>29 June 2018 (Friday)</h3>
@@ -468,6 +470,202 @@
                             </dd>
                         </dl>
                     </div>        
+                </div>
+                <div class="schedule-text" id="allied">
+                    <h3>28 June 2018 (Thursday)</h3>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                            0900 - 1400<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="https://drive.google.com/open?id=1VfVdg-YurSRt3uQaPN2XqXMFAekt-XNc"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">INYAS Symposium in memory of Dr. Vijay Pal Yadav: Living in a Changing Environment</span><br />
+                                Venue: Jawaharlal Nehru Hall, Infosys campus, Mysore<br />
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            0930 - 1730<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">Science Outreach co-organised by INYAS, Mysore Science Foundation and the Academy Trust</span><br />
+                                Venue: Teresian High School, Siddharta Nagar<br />
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            1200 - 1300<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">Teacher's Interaction with Fellows and SEP Members</span><br />
+                                Venue: Akbar hall, Infosys campus, Mysore<br />
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            1400 - 1715<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">SEP Symposium for Invited Teachers</span><br />
+                                Venue: Akbar hall, Infosys campus, Mysore<br />
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            1800<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">Science Education Panel’s Meeting</span><br />
+                                Venue: M Visvesvaraya Hall, Infosys campus, Mysore<br />
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <h3>29 June 2018 (Friday)</h3>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            0000 - 0000<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">Tact outreach</span><br />
+                                Venue: <br />
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <h3>30 June 2018 (Saturday)</h3>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            1830 - 2030<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">tAcT Board Meeting</span><br />
+                                Venue: Naidu Hall, Infosys campus, Mysore<br />
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            1130<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">Editorial Board Meeting – Journal of Mathematical Sciences</span><br />
+                                Venue: Nelson Mandela Hall, Infosys campus, Mysore<br />
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                        <h3>1 July 2018 (Sunday)</h3>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            0930<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">Council meeting</span><br />
+                                Venue: M Visvesvaraya Hall, Infosys campus, Mysore<br />
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                            1000<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">Editorial Board Meeting – Resonance</span><br />
+                                Venue: Sarojini Naidu Hall, Infosys campus, Mysore<br />
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="schedule-text" id="spouses">
+                    <br /><br /><span class="type">Spouses Programme</span><br />
+                    <h3>29 June 2018 (Friday)</h3>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                0930 - 1230
+                            </dt>
+                            <dd>
+                                <span class="speaker">Tour of CFTRI followed by lunch at CFTRI</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1400
+                            </dt>
+                            <dd>
+                                <span class="speaker">Visit to Railway Museum</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="session">
+                    <h3>30 June 2018 (Saturday)</h3>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                0930
+                            </dt>
+                            <dd>
+                                <span class="speaker">Chamundi Hills</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1100
+                            </dt>
+                            <dd>
+                                <span class="speaker">Visit to Jaganmohan Palace</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1200
+                            </dt>
+                            <dd>
+                                <span class="speaker">Visit to  St. Philomena’s Church</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1300
+                            </dt>
+                            <dd>
+                                <span class="speaker">Lunch</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1400
+                            </dt>
+                            <dd>
+                                <span class="speaker">Visit to Mysore Palace</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1600
+                            </dt>
+                            <dd>
+                                <span class="speaker">Shopping</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1730
+                            </dt>
+                            <dd>
+                                <span class="speaker">Brindavan Gardens</span><br />
+                                <p><strong><small>Please note that participants will be required to walk around 2 km in and around the gardens.</small></strong></p>
+                            </dd>
+                        </dl>
+                    </div>
                 </div>
             </div>
         </div>
