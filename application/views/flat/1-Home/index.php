@@ -29,13 +29,15 @@
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDivHome">
-                <!-- <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/banner.jpg" alt="Credits: Nohkalikai Falls, 50 kilometres outside Shillong, is among several stunning waterfalls in Meghalaya. Daniel J. Rao / Alamy / phocalmedia.com"> -->
-<!--                 <div class="OverlayTextMain">
-                    <div class="mainpage">
-                        <h2>83<sup>rd</sup> Annual Meeting</h2>
-                        <p>3&ndash;5 November 2017 <br />North-Eastern Hill University, Shillong</p>
+                 <div class="override-carousel-caption pos-c-full scheme-dark">
+                    <div class="caption-content">
+                        <h3>29<sup>th</sup> Mid Year Meeting</h3>
+                        <p>
+                            29<sup>th</sup> &amp; 30<sup>th</sup> June 2018<br /> 
+                            Venue: Mahatma Gandhi Hall, Infosys Leadership Institute,<br />Mysore Development Centre, Mysuru<br>
+                        </p>
                     </div>
-                </div> -->
+                 </div>
             </div>
         </div>
     </div>
