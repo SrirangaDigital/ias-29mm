@@ -22,8 +22,8 @@
     <h1>Downloads</h1>
     <ul>
         <li><a href="<?=DOWNLOAD_URL?>Abstract_Book.pdf" target="_blank">Speaker Profiles and Abstracts</a></li>
-        <li><a href="javascript:void(0);" target="_blank">Programme Card</a></li>
-        <li><a href="javascript:void(0);" target="_blank">Programme</a></li>
+        <li><a href="<?=DOWNLOAD_URL?>Card.pdf" target="_blank">Programme Card</a></li>
+        <li><a href="<?=DOWNLOAD_URL?>Program.pdf" target="_blank">Programme</a></li>
         <li><a href="javascript:void(0);" target="_blank">Special Lectures</a></li>
-        <li><a href="javascript:void(0);" target="_blank">Symposia</a></li>
+        <li><a href="<?=DOWNLOAD_URL?>Symposia.pdf" target="_blank">Symposia</a></li>
     </ul>
