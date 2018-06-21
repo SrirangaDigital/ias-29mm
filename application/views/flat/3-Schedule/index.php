@@ -507,7 +507,7 @@
                         <dl class="dl-horizontal">
                             <dt>
                             1400 - 1715<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="javascript:void(0);"></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="https://drive.google.com/open?id=1WHqaK7DG_bl4l_vIE6zhOq1awQV35IjF"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">SEP Symposium for Invited Teachers</span><br />

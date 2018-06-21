@@ -69,7 +69,7 @@
  </div>
  <div class="row">
     <div class="col-md-12">
-        <p class="reg">Attendees are requested to register for the meeting, on-site, at the meeting venue on Friday, 29 June at 9.00 am.<br />Please register <a href="http://web-japps.ias.ac.in:8080/Midmeeting2018/midyear/Userlogin.jsp" target="_blank">here</a></p>
+        <p class="reg">All registered participants are requested to collect the registration kit at the meeting venue on Friday, 29 June at 9.00 am.<br />Please register <a href="http://web-japps.ias.ac.in:8080/Midmeeting2018/midyear/Userlogin.jsp" target="_blank">here</a></p>
     </div>
 </div>
 </div>
@@ -83,7 +83,7 @@
     </div>
     <div class="row">
         <div class="col-md-12">
-            <p class="speaker-type">Presidential Address</p>
+            <p class="speaker-type">Presided by</p>
             <a href="javascript:void(0);">
                 <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508569913576/profile.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy"/>
                 <figcaption class="figure-caption text-xs-right">Ramakrishna Ramaswamy</figcaption>

@@ -6,6 +6,7 @@
         <li><a href="<?=BASE_URL?>Schedule#day2" target="_blank">Day2</a></li>
         <li><a href="<?=BASE_URL?>Schedule#allied" target="_blank">Allied Events</a></li>
         <li><a href="<?=BASE_URL?>Schedule#spouses" target="_blank">Spouses Programme</a></li>
+        <li><a href="<?=BASE_URL?>Cultural">Cultural Event</a></li>
     </ul>            
 
     <h1>For Participants</h1>
@@ -25,8 +26,4 @@
         <li><a href="javascript:void(0);" target="_blank">Programme</a></li>
         <li><a href="javascript:void(0);" target="_blank">Special Lectures</a></li>
         <li><a href="javascript:void(0);" target="_blank">Symposia</a></li>
-        <li><a target="_blank" href="javascript:void(0);">List Of Conveners</a></li>        
-        <li><a target="_blank" href="javascript:void(0);">Local Organizing Committee</a></li>
-        <li><a target="_blank" href="javascript:void(0);">Annual report of the IASc</a></li>
-
     </ul>
