@@ -26,21 +26,21 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
 <div class="container clear-paddings" id="home">
-    <div class="row first-row">
+    <!-- <div class="row first-row">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDivHome">
-                 <div class="override-carousel-caption pos-c-full scheme-dark">
-                    <div class="caption-content">
-                        <h3>29<sup>th</sup> Mid Year Meeting</h3>
-                        <p>
-                            29<sup>th</sup> &amp; 30<sup>th</sup> June 2018<br /> 
-                            Venue: Mahatma Gandhi Hall, Infosys Leadership Institute,<br />Mysore Development Centre, Mysuru<br>
-                        </p>
-                    </div>
-                 </div>
+               <div class="override-carousel-caption pos-c-full scheme-dark">
+                <div class="caption-content">
+                    <h3>29<sup>th</sup> Mid Year Meeting</h3>
+                    <p>
+                        29<sup>th</sup> &amp; 30<sup>th</sup> June 2018<br /> 
+                        Venue: Mahatma Gandhi Hall, Infosys Leadership Institute,<br />Mysore Development Centre, Mysuru<br>
+                    </p>
+                </div>
             </div>
         </div>
-    </div>
+    </div> -->
+</div>
 </div>
 
 <div class="container clear-paddings">
@@ -66,10 +66,10 @@
 <div class="container clear-paddings" id="registration">
     <div class="row">
         <div class="col-md-12">
-         <p class="subtitle fancy"><span class="text">Registration</span></p>
-     </div>
- </div>
- <div class="row">
+           <p class="subtitle fancy"><span class="text">Registration</span></p>
+       </div>
+   </div>
+   <div class="row">
     <div class="col-md-12">
         <p class="reg">All registered participants are requested to collect the registration kit at the meeting venue on Friday, 29 June at 9.00 am.</p>
     </div>
