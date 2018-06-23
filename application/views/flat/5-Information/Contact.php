@@ -192,7 +192,15 @@
                 <div class="col-md-6">
                     <strong>Shubhankar Biswas</strong><br />
                     Email: trust@ias.ac.in<br />
-                    Mobile: 98862 42342
+                    Mobile: 98862 42342<br /><br />
+                    <strong>Navya S</strong><br />
+                    Email: navya@ias.ac.in<br />
+                    Mobile: 87626 21175
+                </div>
+                <div class="col-md-6">
+                    <strong>K Nagesh</strong><br />
+                    Email: nagesh@ias.ac.in<br />
+                    Mobile: 98863 24220
                 </div>
             </div>
             <div class="row">
