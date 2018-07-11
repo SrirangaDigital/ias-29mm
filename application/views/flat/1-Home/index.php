@@ -63,7 +63,7 @@
 
 
 <!-- Registration -->
-<div class="container clear-paddings" id="registration">
+<!-- <div class="container clear-paddings" id="registration">
     <div class="row">
         <div class="col-md-12">
            <p class="subtitle fancy"><span class="text">Registration</span></p>
@@ -74,7 +74,7 @@
         <p class="reg">All registered participants are requested to collect the registration kit at the meeting venue on Friday, 29 June at 9.00 am.</p>
     </div>
 </div>
-</div>
+</div> -->
 
 <!--Speakers -->
 <div class="container clear-paddings" id="speakers">
