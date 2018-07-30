@@ -1,9 +1,46 @@
 <div class="container gap-above-large">            
-    <div class="container">
+    <div class="container" id="viewimages">
         <div class="row">
-            <div class="col-md-10">
-                <p class="reg" style="color: #000000">Allied Events - 29<sup>th</sup> &amp; 30<sup>th</sup> June 2018</p>
-                <div id="viewimages">
+        <div class="col-md-10">
+                <p class="reg" style="color: #000000">SEP Symposium for Invited Teachers 28<sup>th</sup> June 2018 (Thursday)</p>
+                <div>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/058.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/058.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/059.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/059.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/060.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/060.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/061.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/061.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/062.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/062.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/063.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/063.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/064.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/064.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/065.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/065.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/066.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/066.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/067.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/067.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/068.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/068.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/069.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/069.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/070.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/070.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/071.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/071.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/072.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/072.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/073.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/073.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/074.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/074.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/075.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/075.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/076.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/076.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/077.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/077.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/078.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/078.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/079.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/079.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/080.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/080.jpg" /></p>
+                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/081.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/081.jpg" /></p>
+                </div>
+            </div>
+            <div class="col-md-2 gallerySidebar clear-margins clear-padding">
+                <h1>Gallery</h1>
+                <ul>
+                    <li><a href="<?=BASE_URL?>Gallery/Day1">Day - 1</a></li>
+                    <li><a href="<?=BASE_URL?>Gallery/Day2">Day - 2</a></li>
+                    <li><a class="active" href="<?=BASE_URL?>Gallery/AlliedEvents">Allied Event</a></li>
+                </ul>
+            </div>
+            <div class="col-md-10 gap-above-med">
+                <p class="reg" style="color: #000000">Science outreach for students 29<sup>th</sup> June 2018 (Friday)</p>
+                <div>
                     <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/001.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/001.jpg" /></p>
                     <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/002.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/002.jpg" /></p>
                     <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/003.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/003.jpg" /></p>
@@ -61,39 +98,7 @@
                     <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/055.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/055.jpg" /></p>
                     <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/056.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/056.jpg" /></p>
                     <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/057.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/057.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/058.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/058.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/059.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/059.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/060.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/060.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/061.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/061.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/062.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/062.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/063.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/063.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/064.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/064.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/065.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/065.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/066.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/066.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/067.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/067.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/068.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/068.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/069.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/069.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/070.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/070.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/071.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/071.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/072.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/072.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/073.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/073.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/074.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/074.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/075.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/075.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/076.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/076.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/077.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/077.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/078.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/078.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/079.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/079.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/080.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/080.jpg" /></p>
-                    <p class="img-small"><img class="img-responsive" data-original="<?=RESOURCES_URL?>main/AlliedEvents/081.jpg"  src="<?=RESOURCES_URL?>thumb/AlliedEvents/081.jpg" /></p>
                 </div>
-            </div>
-            <div class="col-md-2 gallerySidebar clear-margins clear-padding">
-                <h1>Gallery</h1>
-                <ul>
-                    <li><a href="<?=BASE_URL?>Gallery/Day1">Day - 1</a></li>
-                    <li><a href="<?=BASE_URL?>Gallery/Day2">Day - 2</a></li>
-                    <li><a class="active" href="<?=BASE_URL?>Gallery/AlliedEvents">Allied Event</a></li>
-                </ul>
             </div>
         </div>
     </div>
