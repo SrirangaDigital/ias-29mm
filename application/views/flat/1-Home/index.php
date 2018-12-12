@@ -269,11 +269,13 @@
     </div>
     <div class="row" id="twitterContainer">
         <div class="col-md-6 col-sm-12">
-            <h3><a target="_blank" href="https://twitter.com/search?q=%2329MYM%20from%3AIAScBng&src=savs">Click here to view tweets about #29MYM by @IAScBng</a></h3>
+            <div style="height: 400px; overflow: auto;">
+                <a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/IAScBng/timelines/1072766789728165888?ref_src=twsrc%5Etfw">Mid Year Meeting 2018 - Curated tweets by IAScBng</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
         </div>
         <div class="col-md-6 text-center col-sm-12">
             <a target="_blank" title="YouTube" href="https://www.youtube.com/channel/UC5Aq2JESu0QLmP9WveZSvbQ" class="info-icon"><i class="fa fa-youtube"></i></a>
-            <a target="_blank" title="Twitter" href="https://twitter.com/IAScBng" class="info-icon"><i class="fa fa-twitter"></i></a>
+            <a target="_blank" title="Twitter" href="https://twitter.com/search?q=29MYM&src=typd" class="info-icon"><i class="fa fa-twitter"></i></a>
             <a target="_blank" title="Facebook" href="https://www.facebook.com/IAScBng" class="info-icon"><i class="fa fa-facebook"></i></a>
         </div>
     </div>
